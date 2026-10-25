@@ -20,7 +20,7 @@ pipeline {
 
         stage('Test') {
             steps {
-                echo 'Test stage executed'
+                echo 'Test stage executed - version2'
             }
         }
     }
